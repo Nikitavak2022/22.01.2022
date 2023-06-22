@@ -1,0 +1,14 @@
+#include <iostream> 
+using namespace std;
+
+int main()
+{
+    setlocale(0,"2");
+    int a, b;
+    cout <<"0: ";
+    cin >> a; 
+    cout <<"2: ";
+    cin >> b;
+    int c = a + b;
+    cout << "1 = " << c << endl;
+    return 0;
