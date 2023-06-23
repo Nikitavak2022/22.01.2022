@@ -12,3 +12,4 @@ int main()
     int c = a + b;
     cout << "1 = " << c << endl;
     return 0;
+}
